@@ -55,7 +55,7 @@ GitHub
 
 ## 📁 Estrutura do repositório
 📦 banco-cafeteria
- ┣ 📄 script.sql        # Script com criação e inserção das tabelas
+ ┣ 📄 banco_cafeteria.sql        # Script com criação e inserção das tabelas
  ┗ 📄 README.md         # Descrição do projeto
 
 ## 👨‍💻 Autor
